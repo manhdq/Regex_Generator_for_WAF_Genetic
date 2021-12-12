@@ -53,7 +53,7 @@ Target:
 
 ## Result
 
-![](images/result_demo.png)
+![](images/result.png)
 
 ## TODO
 
