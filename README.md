@@ -55,7 +55,3 @@ Target:
 
 ![](images/result.png)
 
-## TODO
-
-- [ ] Apply One-Class Classification for Abnomally Log Detection
-- [ ] Modified code to can be use with negative list for complicated case
