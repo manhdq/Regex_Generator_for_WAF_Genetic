@@ -1,4 +1,2 @@
-numpy
-nltk
-sortedcontainers
-anytree
+python-socketio
+aiohttp
