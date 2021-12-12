@@ -1,6 +1,7 @@
 # Regex_Generator_for_WAF_Genetic
 
 This repo has some modified according to [original repo](https://github.com/maojui/Regex-Generator)
+[Information for this approach](https://www.alibabacloud.com/blog/machine-learning-based-web-exception-detection_89782)
 
 ## Paper
 
