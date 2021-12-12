@@ -26,6 +26,8 @@ Get type from log [white, black, both] [both]: both
 output dir [data]: data
 ```
 
+[](images/preprocess_demo.png)
+
 When you get the data seperate from original log, run ``main.py``
 
 ```bash
@@ -50,3 +52,5 @@ Target:
 ```
 
 ## Result
+
+[](images/result_demo.png)
