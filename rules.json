@@ -1,0 +1,404 @@
+[
+  {
+    "uri": "/",
+    "params": {},
+    "method": "GET"
+  },
+  {
+    "uri": "/index.php",
+    "params": {
+      "option": [
+        "com_config",
+        "com_menus",
+        "com_modules"
+      ],
+      "view": [
+        "items",
+        "modules"
+      ],
+      "layout": [
+        "modal",
+        "edit"
+      ],
+      "client_id": [
+        "^[0-9]*$"
+      ],
+      "tmpl": [
+        "component"
+      ],
+      "3739c4e9aad6e1d60e964c728efa6c17": [
+        "^[0-9]*$"
+      ],
+      "function": [
+        "jSelectMenu_jform_params_logout",
+        "jSelectMenu_jform_params_login",
+        "jSelectMenu_jform_params_customRegLinkMenu",
+        "jSelectMenu_jform_params_base"
+      ],
+      "id": [
+        "^[0-9]*$"
+      ],
+      "Itemid": [
+        "^[0-9]*$"
+      ],
+      "return": [
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb25maWcmdmlldz1tb2R1bGVzJmlkPTEmSXRlbWlkPTEwMSZyZXR1cm49YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlwYm1SbGVDNXdhSEElMkZiM0IwYVc5dVBXTnZiVjlqYjI1bWFXY21kbWxsZHoxdGIyUjFiR1Z6Sm1sa1BURTNKa2wwWlcxcFpEMHhNREVtY21WMGRYSnVQV0ZJVWpCalJHOTJUREo0ZGxreVJuTmhSemw2WkVNNWNHSnRVbXhsUXpWM1lVaEJKVE5F",
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb25maWcmdmlldz1tb2R1bGVzJmlkPTEmSXRlbWlkPTEwMSZyZXR1cm49YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlwYm1SbGVDNXdhSEElMkZiM0IwYVc5dVBXTnZiVjlqYjI1bWFXY21kbWxsZHoxdGIyUjFiR1Z6Sm1sa1BURTNKa2wwWlcxcFpEMHhNREVtY21WMGRYSnVQV0ZJVWpCalJHOTJUREo0ZGxreVJuTmhSemw2WkVNNWNHSnRVbXhsUXpWM1lVaEJKVEpHWWpOQ01HRlhPWFZRVjA1MllsWTVhbUl5TlcxaFYyTnRaRzFzYkdSNk1YUmlNbEl4WWtkV2VrcHRiR3RRVkVWdFUxaFNiR0pYYkd0UVZFVjNUVk5hZVZwWVVqRmpiVFE1V1ZWb1UwMUhUa1ZpTTFwTlRXNW9NbGRVU2tkak1rWklUMWh3YTFGNloyeE5NRkVsTTBRJTNE",
+        "aHR0cDovL2xvY2FsaG9zdC8%3D",
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAvY29tcG9uZW50L3VzZXJzL2xvZ2luP0l0ZW1pZD0xMDE%3D",
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb25maWcmdmlldz1tb2R1bGVzJmlkPTE3Jkl0ZW1pZD0xMDEmcmV0dXJuPWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5cGJtUmxlQzV3YUhBJTJGYjNCMGFXOXVQV052YlY5amIyNW1hV2NtZG1sbGR6MXRiMlIxYkdWekptbGtQVEVtU1hSbGJXbGtQVEV3TVNaeVpYUjFjbTQ5WVVoU01HTkViM1pNTW5oMldUSkdjMkZIT1hwa1F6Z2xNMFElM0Q%3D",
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb25maWcmdmlldz1tb2R1bGVzJmlkPTEmSXRlbWlkPTEwMSZyZXR1cm49YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlwYm1SbGVDNXdhSEElM0Q%3D",
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb25maWcmdmlldz1tb2R1bGVzJmlkPTE3Jkl0ZW1pZD0xMDEmcmV0dXJuPWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5cGJtUmxlQzV3YUhBJTJGYjNCMGFXOXVQV052YlY5amIyNW1hV2NtZG1sbGR6MXRiMlIxYkdWekptbGtQVEUzSmtsMFpXMXBaRDB4TURFbWNtVjBkWEp1UFdGSVVqQmpSRzkyVERKNGRsa3lSbk5oUnpsNlpFTTVjR0p0VW14bFF6VjNZVWhCSlRORQ%3D%3D",
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAvY29tcG9uZW50L3VzZXJzL3Byb2ZpbGU%2FdXNlcl9pZD04NjEmSXRlbWlkPTEwMQ%3D%3D",
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHA%3D",
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb25maWcmdmlldz1tb2R1bGVzJmlkPTEmSXRlbWlkPTEwMSZyZXR1cm49YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzglM0Q%3D",
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb25maWcmdmlldz1tb2R1bGVzJmlkPTE3Jkl0ZW1pZD0xMDEmcmV0dXJuPWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5cGJtUmxlQzV3YUhBJTNE",
+        "aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb25maWcmdmlldz1tb2R1bGVzJmlkPTEmSXRlbWlkPTEwMSZyZXR1cm49YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzlwYm1SbGVDNXdhSEElMkZiM0IwYVc5dVBXTnZiVjlqYjI1bWFXY21kbWxsZHoxdGIyUjFiR1Z6Sm1sa1BURW1TWFJsYldsa1BURXdNU1p5WlhSMWNtNDlZVWhTTUdORWIzWk1NbmgyV1RKR2MyRkhPWHBrUXpsd1ltMVNiR1ZETlhkaFNFRWxNa1ppTTBJd1lWYzVkVkJYVG5aaVZqbHFZakkxYldGWFkyMWtiV3hzWkhveGRHSXlVakZpUjFaNlNtMXNhMUJVUlROS2Eyd3dXbGN4Y0ZwRU1IaE5SRVZ0WTIxV01HUllTblZRVjBaSlZXcENhbEpIT1RKVVJFbzBaR3hyZVZKdVRtaFNlbXcyV2tWTk5XTkhTblJWYlhoc1VYcFdNMWxWYUVKS1ZFNUY%3D",
+        null
+      ],
+      "task": [
+        "module.orderPosition",
+        "profile.edit"
+      ],
+      "position": [
+        "top-a",
+        "below-top",
+        "breadcrumbs",
+        "banner",
+        "footer",
+        "search",
+        "sidebar-right"
+      ],
+      "module_id": [
+        "^[0-9]*$"
+      ],
+      "a8e69811d5b82f84ca0384ee19e93e02": [
+        "^[0-9]*$"
+      ],
+      "30d60475f546daa706ad6d1915d82554": [
+        "^[0-9]*$"
+      ],
+      "a969c55130034e00a01d7a61cf17ff60": [
+        "^[0-9]*$"
+      ],
+      "ae479c3ec9ebdd2d4ce697834f8000e5": [
+        "^[0-9]*$"
+      ],
+      "menutype": [
+        "mainmenu"
+      ],
+      "user_id": [
+        "^[0-9]*$"
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/installation/",
+    "params": {
+      "view": [
+        "setup",
+        "remove"
+      ],
+      "layout": [
+        "default"
+      ],
+      "37c5f2d68d971312b4cd5bd42cc0c18e": [
+        null
+      ],
+      "62cd2c5719d18425a0f3e964eda5e656": [
+        null
+      ],
+      "b1f2785ddb720f6641d3a357aaa4e59c": [
+        null
+      ],
+      "a8d4570ab9e3ccadeed67333e580785a": [
+        null
+      ],
+      "20a3e3a58f848a8275447c7750a2afe0": [
+        null
+      ],
+      "edf5da158494aa612a289c1342674ce5": [
+        null
+      ],
+      "cf6e1c019dfc542b9b8a481f01d53f09": [
+        null
+      ],
+      "4a0316c0aa05352ee7be88bcaa27e66c": [
+        null
+      ],
+      "a90ef4d0272b7d3c6bf455f88d48ef92": [
+        null
+      ],
+      "fa07915783bd748acde8a86b470018eb": [
+        null
+      ],
+      "50351965a24162f3a5ad18e845e2185d": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/com_config/js/",
+    "params": {
+      "a1e461344086554012c3f7b55cb470b5b7352dc9": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/com_menus/js/",
+    "params": {
+      "9fd9966464a66118f626e9e3ae70fa2408d12238": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/com_users/js/",
+    "params": {
+      "829f461d24cbeee7c3f0bd47bf458ad3d128d3cf": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/plg_user_token/js/",
+    "params": {
+      "ce6270fd318f821b946b987d392416a6": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/system/css/",
+    "params": {
+      "ce6270fd318f821b946b987d392416a6": [
+        null
+      ],
+      "a2b2b46c812fbb16f34e65832fbbe2b6": [
+        null
+      ],
+      "852c3c99beb07406033f85429263d74798ef3b15": [
+        null
+      ],
+      "310d8eb8f7b2eeb6f82c417fe1d24271e32a8d95": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/system/images/",
+    "params": {},
+    "method": "GET"
+  },
+  {
+    "uri": "/media/system/js/",
+    "params": {
+      "faea9ca18e3e92a6243f66d83d5ff12f01b925bc": [
+        null
+      ],
+      "90f803363f74b2a8d2269e0a941f49fb294521b5": [
+        null
+      ],
+      "f76614a44039e2bb5becacfb081df5bf015b351d": [
+        null
+      ],
+      "20ace83a13886af1b0b5f58386fd8adf33f586a3": [
+        null
+      ],
+      "17121a112ecec3d656efe5c5f493429c9acf2179": [
+        null
+      ],
+      "7425e8d1cb9e4f061d5e30271d6d99b085344117": [
+        null
+      ],
+      "ce6270fd318f821b946b987d392416a6": [
+        null
+      ],
+      "bae2911b22f836c780af199d956a1b22c8604694": [
+        null
+      ],
+      "035512da5c398e330c2281a95ae79a9140018b48": [
+        null
+      ],
+      "21cc9d15d26f5ab835adef2608fc8abf050422d0": [
+        null
+      ],
+      "cb7f653c510ddb6c629382e0e62b733f0f9487fa": [
+        null
+      ],
+      "98c7f2f8860f0c44d72a82d32ed191007007de67": [
+        null
+      ],
+      "2cf5ce06b5b33eeae7bfc9c13af12daa32ce7475": [
+        null
+      ],
+      "a2b2b46c812fbb16f34e65832fbbe2b6": [
+        null
+      ],
+      "9f7b2a63e13eada7a02ec80fcdd81817627851ae": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/vendor/awesomplete/css/",
+    "params": {
+      "1.1.5": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/vendor/awesomplete/js/",
+    "params": {
+      "1.1.5": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/vendor/bootstrap/js/",
+    "params": {
+      "1635100342": [
+        null
+      ],
+      "5.1.2": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/vendor/choicesjs/js/",
+    "params": {
+      "9.0.1": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/media/vendor/fontawesome-free/webfonts/",
+    "params": {},
+    "method": "GET"
+  },
+  {
+    "uri": "/media/vendor/joomla-custom-elements/css/",
+    "params": {
+      "0.2.0": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/templates/cassiopeia/css/",
+    "params": {
+      "a2b2b46c812fbb16f34e65832fbbe2b6": [
+        null
+      ],
+      "ce6270fd318f821b946b987d392416a6": [
+        null
+      ],
+      "9.0.1": [
+        null
+      ],
+      "0.2.0": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/templates/cassiopeia/images/",
+    "params": {},
+    "method": "GET"
+  },
+  {
+    "uri": "/templates/cassiopeia/js/",
+    "params": {
+      "a2b2b46c812fbb16f34e65832fbbe2b6": [
+        null
+      ],
+      "ce6270fd318f821b946b987d392416a6": [
+        null
+      ]
+    },
+    "method": "GET"
+  },
+  {
+    "uri": "/index.php",
+    "params": {
+      "format": [
+        "json"
+      ],
+      "view": [
+        "items",
+        "featured"
+      ],
+      "Itemid": [
+        "^[0-9]*$"
+      ],
+      "layout": [
+        "modal"
+      ],
+      "tmpl": [
+        "component"
+      ],
+      "a969c55130034e00a01d7a61cf17ff60": [
+        "^[0-9]*$"
+      ],
+      "3739c4e9aad6e1d60e964c728efa6c17": [
+        "^[0-9]*$"
+      ],
+      "task": [
+        "reset.request",
+        "remind.remind",
+        "user.login"
+      ]
+    },
+    "method": "POST"
+  },
+  {
+    "uri": "/installation/",
+    "params": {
+      "task": [
+        "installation.removeFolder",
+        "installation.create",
+        "installation.custom2",
+        "installation.config",
+        "installation.populate1",
+        "installation.custom1",
+        "installation.populate2",
+        "installation.languages",
+        "installation.dbcheck",
+        "language.setdefault",
+        "installation.populate3"
+      ],
+      "format": [
+        "json"
+      ],
+      "view": [
+        "setup"
+      ],
+      "frontendlang": [
+        "en-US"
+      ],
+      "administratorlang": [
+        "en-US"
+      ]
+    },
+    "method": "POST"
+  }
+]
